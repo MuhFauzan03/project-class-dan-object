@@ -1,0 +1,14 @@
+/Users/Anggip/Documents/uzz/MahasiswaApp/bin/Debug/net10.0/MahasiswaApp
+/Users/Anggip/Documents/uzz/MahasiswaApp/bin/Debug/net10.0/MahasiswaApp.deps.json
+/Users/Anggip/Documents/uzz/MahasiswaApp/bin/Debug/net10.0/MahasiswaApp.runtimeconfig.json
+/Users/Anggip/Documents/uzz/MahasiswaApp/bin/Debug/net10.0/MahasiswaApp.dll
+/Users/Anggip/Documents/uzz/MahasiswaApp/bin/Debug/net10.0/MahasiswaApp.pdb
+/Users/Anggip/Documents/uzz/MahasiswaApp/obj/Debug/net10.0/MahasiswaApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Anggip/Documents/uzz/MahasiswaApp/obj/Debug/net10.0/MahasiswaApp.AssemblyInfoInputs.cache
+/Users/Anggip/Documents/uzz/MahasiswaApp/obj/Debug/net10.0/MahasiswaApp.AssemblyInfo.cs
+/Users/Anggip/Documents/uzz/MahasiswaApp/obj/Debug/net10.0/MahasiswaApp.csproj.CoreCompileInputs.cache
+/Users/Anggip/Documents/uzz/MahasiswaApp/obj/Debug/net10.0/MahasiswaApp.dll
+/Users/Anggip/Documents/uzz/MahasiswaApp/obj/Debug/net10.0/refint/MahasiswaApp.dll
+/Users/Anggip/Documents/uzz/MahasiswaApp/obj/Debug/net10.0/MahasiswaApp.pdb
+/Users/Anggip/Documents/uzz/MahasiswaApp/obj/Debug/net10.0/MahasiswaApp.genruntimeconfig.cache
+/Users/Anggip/Documents/uzz/MahasiswaApp/obj/Debug/net10.0/ref/MahasiswaApp.dll
